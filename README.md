@@ -1,4 +1,4 @@
-This Christmas, I'm learning Zig language together with [Advent of Code](https://adventofcode.com/) challange
+This Christmas, I'm learning Zig language together with [Advent of Code](https://adventofcode.com/) challenge
 
 ### Build
 ```
